@@ -14,7 +14,7 @@ Our client, the Google Fiber call center, wanted to explore trends in repeat cal
 
 ​
 
-Stakeholder Requirements:
+#### Stakeholder Requirements:
 
      Chart or table showcasing repeat calls by week, month, and quarter
 
@@ -30,9 +30,9 @@ Stakeholder Requirements:
 
 ​
 
-Content:
+### Content:
 
-Markets: 
+#### Markets: 
 
      market_1
 
@@ -40,7 +40,7 @@ Markets: 
 
      market_3 
 
-Problem types: types of problems that customers call in for
+#### Problem types: types of problems that customers call in for
 
      Type_1 is account management
 
@@ -52,7 +52,7 @@ Problem types: types of problems that customers call in for
 
      Type_5 is internet and Wi-Fi
 
-The initial contact date: the first date a customer contacts the call center
+#### The initial contact date: the first date a customer contacts the call center
 
      contacts_n: first call 
 
@@ -60,7 +60,7 @@ The initial contact date: the first date a customer contacts the call center
 
      contacts_n_number of days (ex: contacts_n_6 = 6 days since the first call)
 
-Date: 
+#### Date: 
 
      Quarter
 
@@ -72,6 +72,6 @@ Date: 
 
 ​
 
-Resources: Google Business Intelligence Professional Certificate | Coursera
+##### Resources: Google Business Intelligence Professional Certificate | Coursera
 
-Data Pulled 02/2024
+###### Data Pulled 02/2024
